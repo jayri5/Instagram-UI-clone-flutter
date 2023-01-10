@@ -1,2 +1,2 @@
 Instagram UI clone using Flutter!
-(Need to add navigation panes as well :D)
+(built the feed page, yet to add other sections)
